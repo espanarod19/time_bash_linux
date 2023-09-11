@@ -48,10 +48,3 @@ else
     echo "Overload time does not exceed $threshold_hours hours."
 fi
 
-
-node="hola"
-if [[ -z "${node}" ]];then
-	echo "EMpty"
-else
-	echo "NO empty"
-fi
